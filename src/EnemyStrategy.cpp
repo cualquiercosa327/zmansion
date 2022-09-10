@@ -1,7 +1,7 @@
 #include "EnemyStrategy.h"
 
 EnemyStrategy::EnemyStrategy() {
-  mpThought = nullptr;
+  mpThought = 0;
   mUnknownInt0 = 0;
   mNextState = 0;
   mCurrentState = 0;
