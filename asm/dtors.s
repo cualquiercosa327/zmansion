@@ -7,8 +7,8 @@
 .global lbl_8020BDE0
 lbl_8020BDE0:
 
-	# ROM: 0x208DE0
-	.4byte lbl_80200188
-	.4byte lbl_80202664
-	.4byte lbl_80200188
-	.4byte 0
+# ROM: 0x208DE0
+.4byte lbl_80200188
+.4byte lbl_80202664
+.4byte lbl_80200188
+.4byte 0
